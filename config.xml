@@ -16,7 +16,7 @@
         PhoneGap Build
     </author>
     
-    <icon src="favicon_atm.ico" />
+    <icon src="images/Logo-transparencia.png" />
     
     <preference name="phonegap-version" value="cli-6.3.0" />
 
