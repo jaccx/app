@@ -17,5 +17,7 @@
     </author>
     
     <icon src="icon.png" />
+    
+    <preference name="phonegap-version" value="cli-6.3.0" />
 
 </widget>
