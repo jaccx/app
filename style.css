@@ -1,0 +1,87 @@
+.ui-page-theme-a .ui-btn{
+	background-color:#f5821f;
+}
+.ui-page-theme-a .ui-btn:active, .ui-page-theme-a .ui-btn:hover{
+	background-color: #2e3092;
+	color: #fff;
+	text-shadow: 0 1px 0 #000;
+}
+.ui-header{
+    text-align: center;
+    padding: 25px 0px;
+}
+.btn_return{
+    background: #f5994a;
+    text-align: center;
+}
+.btn_return img{
+    float: left;
+    margin-top: 0.3em;
+}
+.btn_return a{
+    text-decoration: none;
+    font-size: 2em;
+    color: #fff !important;
+    text-shadow: none;
+}
+.nosotrosDiv h3{    
+    font-size: 3em;
+    font-weight: 100;
+    color: #f5994a;
+}
+.nosotrosDiv h4{    
+    font-size: 1.3em;
+    font-weight: 100;
+    color: #22248c;
+}
+.nosotrosDiv h6{    
+    font-size: 0.8em;    
+    text-align: right;
+    font-weight: 100;
+    color: #787878;
+}
+.nosotrosDiv p, .nosotrosDiv li{
+    color: #787878;
+    text-align: justify;
+    font-size: 1.3em;
+    font-weight: 100;
+}
+.icnProductos{
+    text-align: center;
+}
+.icnProductos div{
+    margin-bottom: 2em;
+}
+.icnProductos img{
+    width: 80%;
+}
+.icnProductos span{
+    color: #787878;
+    font-size: 1.2em;
+}
+.icnProductos a{
+    text-decoration: none;
+    font-weight: 100;
+}
+.grid_left_p{    
+    background: #f5994a;
+    color: #fff;
+    text-shadow: none;
+    padding: 1em 0.5em;
+}
+.grid_right_c{
+    background: #ffffff;
+    color: #000;
+    text-shadow: none;
+    padding: 1em 0.2em;    
+    border-top: 1px solid #f3f3f3;
+}
+.grid_left_c{
+    background: #f5994a;
+    color: #fff;
+    text-shadow: none;
+    padding: 1em 0.5em;
+}
+.tableMed{
+    background: #fff;
+}
