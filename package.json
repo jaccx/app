@@ -1,0 +1,17 @@
+{
+    "name": "com.quickblox.cordova.video_chat",
+    "version": "1.0.0",
+    "displayName": "QB Video Chat",
+    "cordova": {
+        "platforms": [
+            "android",
+            "browser",
+            "ios"
+        ]
+    },
+    "dependencies": {
+        "cordova-ios": "~4.3.0",
+        "cordova-browser": "~4.1.0",
+        "cordova-android": "~6.1.1"
+    }
+}
